@@ -1,8 +1,8 @@
-# HANEEN | Image Processing Studio 🎨✨
+# HANEEN | Image Processing Studio 
 
 A modern, feature-rich desktop application for image processing and computer vision tasks. Built with Python, CustomTkinter, and OpenCV, this studio provides an intuitive graphical interface for applying a wide variety of mathematical operations, morphological transformations, and stylization filters to images in real-time.
 
-## 🚀 Features
+##  Features
 
 ### Modern & Responsive UI
 * **CustomTkinter Interface:** A sleek, dark-themed UI with categorized tool cards.
